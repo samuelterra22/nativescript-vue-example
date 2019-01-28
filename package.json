@@ -26,7 +26,7 @@
     "nativescript-theme-core": "^1.0.4",
     "nativescript-toast": "^1.4.6",
     "nativescript-vue": "^2.0.2",
-    "tns-core-modules": "~3.4.1",
+    "tns-core-modules": "~5.1.2",
     "vue-router": "^3.0.1",
     "vuex": "^3.1.0"
   },
